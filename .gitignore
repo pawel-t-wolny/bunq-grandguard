@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+
+# FastAPI
+*.db
+*.sqlite
+*.log
+
+# Node.js / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.expo/
+.expo-shared/
+*.pem
+web-build/
+dist-web/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+
+# ML Models (uncomment if you don't want to commit large model files)
+# *.joblib
+# *.pkl
+# *.pth
+
+# Data files (uncomment if you don't want to commit large datasets)
+# *.json
+# !package.json
+# !package-lock.json
