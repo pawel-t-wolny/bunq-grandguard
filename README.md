@@ -1,4 +1,4 @@
-# bunq Anti-Scam
+# Bunq GranGuard 
 
 A fraud detection system for bunq that combines a **XGBoost-based ML model** with an AI voice agent to protect elderly customers from scams. Built for the bunq Hackathon.
 
